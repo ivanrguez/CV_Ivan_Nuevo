@@ -1,1 +1,1 @@
-# CV_Ivan_Nuevo
+CV creado con HTML5, CSS3, JavaScript y JQuery
