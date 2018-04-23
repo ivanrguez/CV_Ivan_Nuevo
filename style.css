@@ -171,9 +171,9 @@ body {
 	background-position: center center;
 }
 
-#css3 {
-	background-image: url("images/css3.png");
-	background-size: 60% 80%;
+#cms {
+	background-image: url("images/cms.png");
+	background-size: 80% 80%;
 	background-repeat: no-repeat;
 	background-position: center center;
 }
@@ -185,23 +185,29 @@ body {
 	background-position: center center;
 }
 
-#js {
-	background-image: url("images/js.png");
-	background-size: 60% 80%;
+#node {
+	background-image: url("images/node.png");
+	background-size: 80% 80%;
 	background-repeat: no-repeat;
 	background-position: center center;
 }
 
 #git {
 	background-image: url("images/git.png");
-	background-size: 80% 80%;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+#php {
+	background-image: url("images/php.png");
+	background-size: 100% 100%;
 	background-repeat: no-repeat;
 	background-position: center center;
 }
 
 #aws {
 	background-image: url("images/aws.png");
-	background-size: 80% 40%;
+	background-size: 80% 80%;
 	background-repeat: no-repeat;
 	background-position: center center;
 }
